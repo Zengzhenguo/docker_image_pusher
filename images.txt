@@ -1,1 +1,1 @@
-elastic/filebeat:8.14.1
+openjdk:17-jdk-slim
